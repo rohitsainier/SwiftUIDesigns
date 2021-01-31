@@ -95,8 +95,8 @@
 		2215B49C25C299CC0048AF64 /* SwiftUIDesigns */ = {
 			isa = PBXGroup;
 			children = (
+				2299B44425C70D3D00971908 /* NetflixUI */,
 				2215B49D25C299CC0048AF64 /* SwiftUIDesignsApp.swift */,
-				2215B49F25C299CC0048AF64 /* ContentView.swift */,
 				2215B4A125C299D30048AF64 /* Assets.xcassets */,
 				2215B4A625C299D30048AF64 /* Info.plist */,
 				2215B4A325C299D30048AF64 /* Preview Content */,
@@ -128,6 +128,14 @@
 				2215B4BC25C299D40048AF64 /* Info.plist */,
 			);
 			path = SwiftUIDesignsUITests;
+			sourceTree = "<group>";
+		};
+		2299B44425C70D3D00971908 /* NetflixUI */ = {
+			isa = PBXGroup;
+			children = (
+				2215B49F25C299CC0048AF64 /* ContentView.swift */,
+			);
+			path = NetflixUI;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
